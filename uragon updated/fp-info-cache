@@ -1,4 +1,4 @@
-27346817935968996
+27357509299459856
 0ZCF0400FF2A
 FUSER_0ZCF0400FF2A
 
@@ -8,6 +8,13 @@ FUSER_0ZCF0400FF2A
 2
 0ZRB0400FF1A
 FUSRR510W81L1400T300H2010B
+
+
+0
+2
+2
+12101C225K4Z2A
+CAPC3225X279N
 
 
 0
@@ -34,6 +41,13 @@ audio belton reverb
 0
 7
 7
+B560C-13-F
+SMC
+<b>DIODE</b>
+
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -60227,6 +60241,13 @@ XIAO ESP32C3
 0
 12
 12
+DFE252010F-8R2M_P2
+INDC2520X100N
+
+
+0
+2
+2
 DM-OLED096-636
 MODULE_DM-OLED096-636
 
@@ -60234,6 +60255,13 @@ MODULE_DM-OLED096-636
 0
 8
 8
+DRV8313PWP
+SOP65P640X120-29N
+
+
+0
+53
+53
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -76026,6 +76054,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PCF8574N
+DIP794W45P254L1969H508Q16
+
+
+0
+16
+16
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -98734,6 +98769,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMBJ5.0A
+DIOM4336X265N
+
+
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
